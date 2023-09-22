@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1694351589 source:c:\users\hp\documents\codeblocks\hello\main.cpp
+	<iostream>
+	<string>
+	"forLoopHQ1.h"
+	"forLoopHQ2.h"
+	"forLoopHQ3.h"
+	"forLoopHQ4.h"
+	"forLoopHQ5.h"
+	"forLoopHQ6.h"
+
+1694177649 c:\users\hp\documents\codeblocks\hello\forloophq3.h
+	<iostream>
+
+1694177495 c:\users\hp\documents\codeblocks\hello\forloophq4.h
+	<iostream>
+
+1694351685 c:\users\hp\documents\codeblocks\hello\forloophq5.h
+	<iostream>
+
+1694262336 c:\users\hp\documents\codeblocks\hello\forloophq6.h
+	<iostream>
+
+1694263239 c:\users\hp\documents\codeblocks\hello\forloophq1.h
+	<iostream>
+
+1694350534 c:\users\hp\documents\codeblocks\hello\forloophq2.h
+	<iostream>
+
